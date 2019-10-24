@@ -39,4 +39,6 @@ POSTMAN
 
 ![successful PUT route in Postman](https://user-images.githubusercontent.com/35668707/67519405-a871d500-f65b-11e9-911e-e7320a7ddd8e.JPG)
 
+![successful DELETE route in Postman](https://user-images.githubusercontent.com/35668707/67519465-c4757680-f65b-11e9-957f-49f16857ce49.JPG)
+
 
