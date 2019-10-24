@@ -37,4 +37,6 @@ POSTMAN
 
 ![successful GET route in Postman](https://user-images.githubusercontent.com/35668707/67519347-8710e900-f65b-11e9-8f86-ee84b248e8de.JPG)
 
+![successful PUT route in Postman](https://user-images.githubusercontent.com/35668707/67519405-a871d500-f65b-11e9-911e-e7320a7ddd8e.JPG)
+
 
