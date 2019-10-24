@@ -25,7 +25,8 @@ VS CODE
 
 (10) Open in VS code: ![open in vs code - index js (_httpVerbsPostman)](https://user-images.githubusercontent.com/35668707/67519099-fb975800-f65a-11e9-88e6-4fc2da3b63c8.JPG)
 
-(11) Navigate to the routes/index.js file and add an the routes for basic CRUD operations: 
+(11) Navigate to the routes/index.js file and add an the routes for basic CRUD operations: ![add routes for CRUD operations - index js (_httpVerbsPostman)](https://user-images.githubusercontent.com/35668707/67519209-38634f00-f65b-11e9-99a3-432b868202cb.JPG)
+
 
 
 
