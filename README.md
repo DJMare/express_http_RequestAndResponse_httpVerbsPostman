@@ -35,4 +35,6 @@ POSTMAN
 (12) In Postman, navigate to localserver:3000 to see changes for each route:
 ![successful POST route in Postman](https://user-images.githubusercontent.com/35668707/67519294-65affd00-f65b-11e9-8f19-989920d0ec70.JPG)
 
+![successful GET route in Postman](https://user-images.githubusercontent.com/35668707/67519347-8710e900-f65b-11e9-8f86-ee84b248e8de.JPG)
+
 
