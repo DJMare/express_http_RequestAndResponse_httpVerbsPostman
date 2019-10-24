@@ -21,9 +21,9 @@ COMMAND PROMPT
 
 (9) Start the server with Nodemon with the following command: nodemon
 
-(10) Open in VS code: code . 
-
 VS CODE
+
+(10) Open in VS code: ![open in vs code - index js (_httpVerbsPostman)](https://user-images.githubusercontent.com/35668707/67519099-fb975800-f65a-11e9-88e6-4fc2da3b63c8.JPG)
 
 (11) Navigate to the routes/index.js file and add an the routes for basic CRUD operations: 
 
