@@ -56,3 +56,17 @@ POSTMAN
 ![successful PUT route in Postman](https://user-images.githubusercontent.com/35668707/67519405-a871d500-f65b-11e9-911e-e7320a7ddd8e.JPG)
 
 ![successful DELETE route in Postman](https://user-images.githubusercontent.com/35668707/67519465-c4757680-f65b-11e9-957f-49f16857ce49.JPG)
+
+NODEMON NOTE
+
+Sometimes nodemon crashes in Windows 10 and there is a simple fix:
+
+(1) Open Task manager (press Ctrl+Alt+Delete)
+
+(2) Select the 'Processes tab'
+
+(3) Search for 'Node.js: Server-side JavaScript'
+
+(4) Select it and click on 'End task' button
+
+Now you can run npm start.
