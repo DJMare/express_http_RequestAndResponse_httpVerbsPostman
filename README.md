@@ -1,4 +1,4 @@
-# express_http_RequestAndResponse_httpVerbsPostman
+# Express_http_RequestAndResponse_httpVerbsPostman
 A http request and response app using http verbs to view basic CRUD operations in Postman. 
 
 COMMAND PROMPT
